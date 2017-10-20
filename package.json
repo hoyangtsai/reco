@@ -1,6 +1,6 @@
 {
   "name": "@tencent/nodinx-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "nodinx command line tools",
   "main": "bin/nodx.js",
   "scripts": {

@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.1.0 / 2017.10.20 
+
+* feature: 安装依赖包时会使用前面用户设置的registryUrl ([#13][issue-13])
+* feature: 将base-cmd中的命令移动到了cmd中
+
 ## 1.0.0 / 2017.10.18
 
 * feature: 支持模版变量choices, 也就是可下拉列表选择变量 ([#20][issue-20])
@@ -14,6 +19,7 @@
 
 * feature: 开发nodx的init项目脚手架的命令 ([#4][issue-4Ï])
 
-[issue-20]: http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli/issues/20
-[issue-16]: http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli/issues/16
 [issue-4]: http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli/issues/4
+[issue-13]: http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli/issues/13
+[issue-16]: http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli/issues/16
+[issue-20]: http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli/issues/20
