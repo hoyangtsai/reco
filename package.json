@@ -39,6 +39,7 @@
     "debug": "^3.0.1",
     "egg-init-config": "^1.2.0",
     "glob": "^7.1.1",
+    "graceful-fs": "^4.1.11",
     "group-object": "^0.1.1",
     "inquirer": "^3.3.0",
     "is-type-of": "^1.0.0",
