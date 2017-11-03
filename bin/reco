@@ -1,4 +1,4 @@
 #! /usr/bin/env node
-const Command = require('../lib/nodx');
+const Command = require('../lib/reco');
 
 new Command().start();

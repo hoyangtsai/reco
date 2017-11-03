@@ -1,8 +1,8 @@
 {
-  "name": "@tencent/nodinx-cli",
+  "name": "@tencent/reco",
   "version": "1.1.0",
-  "description": "nodinx command line tools",
-  "main": "bin/nodx.js",
+  "description": "reco command line tools",
+  "main": "bin/reco.js",
   "scripts": {
     "lint": "eslint bin lib test",
     "test": "npm run lint -- --fix && egg-bin test",
@@ -10,7 +10,7 @@
     "ci": "npm run lint && egg-bin cov"
   },
   "bin": {
-    "nodx": "./bin/nodx"
+    "reco": "./bin/reco"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,10 @@
     "lib": "./lib",
     "bin": "./bin"
   },
+  "files": [
+    "bin",
+    "lib"
+  ],
   "keywords": [
     "nodinx",
     "react",
