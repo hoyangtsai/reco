@@ -31,15 +31,12 @@
     "cli"
   ],
   "author": "allanyu",
-  "license": "Tencent Private",
+  "license": "MIT",
   "dependencies": {
-    "chalk": "^2.1.0",
-    "change-case": "^3.0.1",
-    "co": "^4.6.0",
+    "@tencent/reco-bin": "^0.0.1",
     "colors": "^1.1.2",
     "compressing": "^1.1.0",
     "cross-spawn": "^5.1.0",
-    "dargs": "^5.1.0",
     "debug": "^3.0.1",
     "egg-init-config": "^1.2.0",
     "glob": "^7.1.1",
@@ -52,14 +49,13 @@
     "mem-fs-editor": "^3.0.2",
     "mkdirp": "^0.5.1",
     "mz-modules": "^1.0.0",
-    "node-homedir": "^1.0.0",
     "npm-updater": "^3.0.3",
-    "semver": "^5.4.1",
     "urllib": "^2.25.0",
     "yargs": "^8.0.1",
     "yargs-parser": "^8.0.0"
   },
   "devDependencies": {
+    "@tencent/nodinx-bin": "^3.3.9",
     "egg-bin": "^1.0.0",
     "egg-ci": "^1.1.0",
     "eslint": "^3.19.0",
