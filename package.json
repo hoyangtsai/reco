@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "reco command line tools",
   "main": "bin/reco.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.code.oa.com/WSRD-Tech-Center-Lib/nodinx-cli.git"
+    "url": "http://git.code.oa.com/WSRD-Tech-Center-Lib/reco.git"
   },
   "directories": {
     "lib": "./lib",
@@ -33,12 +33,10 @@
   "author": "allanyu",
   "license": "MIT",
   "dependencies": {
-    "@tencent/reco-bin": "^0.0.1",
+    "@tencent/reco-bin": "^0.0.2",
     "colors": "^1.1.2",
     "compressing": "^1.1.0",
-    "cross-spawn": "^5.1.0",
     "debug": "^3.0.1",
-    "egg-init-config": "^1.2.0",
     "glob": "^7.1.1",
     "graceful-fs": "^4.1.11",
     "group-object": "^0.1.1",
@@ -50,9 +48,7 @@
     "mkdirp": "^0.5.1",
     "mz-modules": "^1.0.0",
     "npm-updater": "^3.0.3",
-    "urllib": "^2.25.0",
-    "yargs": "^8.0.1",
-    "yargs-parser": "^8.0.0"
+    "urllib": "^2.25.0"
   },
   "devDependencies": {
     "@tencent/nodinx-bin": "^3.3.9",
