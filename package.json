@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco",
-  "version": "1.2.2",
+  "version": "1.2.3-beta.1",
   "description": "reco command line tools",
   "main": "bin/reco.js",
   "scripts": {
@@ -33,7 +33,8 @@
   "author": "allanyu",
   "license": "MIT",
   "dependencies": {
-    "@tencent/reco-bin": "^0.0.3",
+    "@tencent/reco-bin": "^0.0.5",
+    "co": "^4.6.0",
     "colors": "^1.1.2",
     "compressing": "^1.1.0",
     "debug": "^3.0.1",
@@ -46,7 +47,8 @@
     "mem-fs": "^1.1.3",
     "mem-fs-editor": "^3.0.2",
     "mkdirp": "^0.5.1",
-    "mz-modules": "^1.0.0",
+    "mz": "^2.7.0",
+    "mz-modules": "^2.0.0",
     "npm-updater": "^3.0.3",
     "urllib": "^2.25.0"
   },
