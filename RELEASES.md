@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.5 / 2017-11-28
+
+* feature: 支持reco本地安装
+
 ## 1.2.4 / 2017-11-28
 
 * feature: 完善对toolkit的支持
