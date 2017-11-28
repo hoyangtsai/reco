@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.4 / 2017-11-28
+
+* feature: 完善对toolkit的支持
+
 ## 1.2.2 / 2017-11-22
 
 * feature: 修复不同reco-bin导致的命令报错的bug
