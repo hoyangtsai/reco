@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "reco command line tools",
   "main": "bin/reco.js",
   "scripts": {
