@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "reco command line tools",
   "main": "bin/reco.js",
   "scripts": {
@@ -33,7 +33,7 @@
   "author": "allanyu",
   "license": "MIT",
   "dependencies": {
-    "@tencent/reco-bin": ">=0.2.0",
+    "@tencent/reco-bin": ">=0.2.1",
     "co": "^4.6.0",
     "colors": "^1.1.2",
     "compressing": "^1.1.0",
